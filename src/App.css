@@ -1,0 +1,25 @@
+body {
+  background-color: green;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: darkgreen;
+  padding: 1em;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1em;
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 1em;
+}
